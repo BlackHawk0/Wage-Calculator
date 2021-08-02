@@ -1,0 +1,68 @@
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/ApplicationInsights.config
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/WageCalculator.dll.config
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/WageCalculator.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/WageCalculator.pdb
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Antlr3.Runtime.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/AspNet.ScriptManager.bootstrap.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/AspNet.ScriptManager.jQuery.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.AI.Agent.Intercept.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.AI.DependencyCollector.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.AI.PerfCounterCollector.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.AI.ServerTelemetryChannel.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.AI.Web.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.AI.WindowsServer.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.ApplicationInsights.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.AspNet.FriendlyUrls.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.ScriptManager.MSAjax.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.ScriptManager.WebForms.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Newtonsoft.Json.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/System.Web.Optimization.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/WebGrease.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/System.Web.Optimization.xml
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Antlr3.Runtime.pdb
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.AspNet.FriendlyUrls.xml
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Newtonsoft.Json.xml
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.ApplicationInsights.xml
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.AI.DependencyCollector.xml
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.AI.ServerTelemetryChannel.xml
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.AI.WindowsServer.xml
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/bin/Microsoft.AI.Web.xml
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/obj/Debug/WageCalculator.csprojResolveAssemblyReference.cache
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/obj/Debug/WageCalculator.csproj.CoreCompileInputs.cache
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/obj/Debug/WageCalculator.dll
+C:/Users/COMPUTER CARE/source/repos/WageCalculator/WageCalculator/obj/Debug/WageCalculator.pdb
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/ApplicationInsights.config
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/WageCalculator.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/WageCalculator.pdb
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Antlr3.Runtime.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/AspNet.ScriptManager.bootstrap.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/AspNet.ScriptManager.jQuery.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Microsoft.AI.Agent.Intercept.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Microsoft.AI.DependencyCollector.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Microsoft.AI.PerfCounterCollector.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Microsoft.AI.Web.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Microsoft.AI.WindowsServer.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Microsoft.ApplicationInsights.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Microsoft.AspNet.FriendlyUrls.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Microsoft.AspNet.Web.Optimization.WebForms.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Microsoft.ScriptManager.MSAjax.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Microsoft.ScriptManager.WebForms.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Microsoft.Web.Infrastructure.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Newtonsoft.Json.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/System.Web.Optimization.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/WebGrease.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Antlr3.Runtime.pdb
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Microsoft.AspNet.FriendlyUrls.xml
+/home/mogul/Downloads/WageCalculator/WageCalculator/bin/Newtonsoft.Json.xml
+/home/mogul/Downloads/WageCalculator/WageCalculator/obj/Debug/WageCalculator.csprojAssemblyReference.cache
+/home/mogul/Downloads/WageCalculator/WageCalculator/obj/Debug/WageCalculator.csproj.CoreCompileInputs.cache
+/home/mogul/Downloads/WageCalculator/WageCalculator/obj/Debug/WageCalculator.csproj.CopyComplete
+/home/mogul/Downloads/WageCalculator/WageCalculator/obj/Debug/WageCalculator.dll
+/home/mogul/Downloads/WageCalculator/WageCalculator/obj/Debug/WageCalculator.pdb
